@@ -1,6 +1,3 @@
-// Nyxvectar Yan, on July 30, 2025
-// nyxvectar@proton.me
-
-module guts
+module guhs
 
 go 1.24

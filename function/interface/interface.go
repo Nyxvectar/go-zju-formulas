@@ -1,7 +1,7 @@
 /**
  * Author:  Nyxvectar Yan
- * Repo:    guhs
+ * Repo:    guths
  * Created: 07/31/2025
  */
 
-package function
+package _interface
