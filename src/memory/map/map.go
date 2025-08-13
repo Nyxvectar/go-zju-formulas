@@ -40,8 +40,6 @@ func GutsMap() {
 		nevacuate  uintptr        // 即将迁移的旧桶
 		extra      *mapextra
 	}
-	// 但是这并不是桶的结构, 而是整体的结构
-	// 通的结构为bmap, 即buckets map.
 	fmt.Println(a)
 	// 等量扩容的意义是让新的值排列更加
 	// 紧密, 从而减少溢出桶的使用.
