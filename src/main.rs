@@ -1,3 +1,7 @@
+use crate::helper::helper;
+
+mod helper;
+
 /**
  * Author:  Nyxvectar Yan 
  * Repo:    guhs
@@ -5,5 +9,6 @@
  */
 
 fn main() {
-    println!()
+    println!();
+    helper()
 }

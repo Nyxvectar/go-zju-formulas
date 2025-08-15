@@ -1,7 +1,7 @@
 /**
- * Author:  Nyxvectar Yan
- * Repo:    go-zju-formulas
- * Created: 07/23/2025
+ * Author:  Nyxvectar Yan 
+ * Repo:    guhs
+ * Created: 08/15/2025
  */
 
 //"排列数公式",
@@ -11,5 +11,3 @@
 //"二项式定理",
 //"分类加法计数原理",
 //"分步乘法计数原理"
-
-package discrete
