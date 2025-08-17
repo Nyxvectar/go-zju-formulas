@@ -5,5 +5,5 @@
  */
 
 pub fn helper() {
-    
+    println!("The helper module's function is using --help")
 }
