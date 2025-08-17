@@ -1,7 +1,7 @@
 /**
- * Author:  Nyxvectar Yan
- * Repo:    go-zju-formulas
- * Created: 07/23/2025
+ * Author:  Nyxvectar Yan 
+ * Repo:    guhs
+ * Created: 08/17/2025
  */
 
 //"事件独立判断公式",
@@ -10,5 +10,3 @@
 //"概率乘法公式",
 //"全概率公式",
 //"贝叶斯公式"
-
-package probability
