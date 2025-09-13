@@ -1,5 +1,5 @@
 /**
- * Author:  Nyxvectar Yan
+ * Author:  Raye Lattice 
  * Repo:    guths
  * Created: 07/31/2025
  */
@@ -17,7 +17,7 @@ type A struct {
 }
 
 var nyxvectar = A{
-	nyx: "Nyxvectar Yan",
+	nyx: "Raye Lattice ",
 	age: 15,
 }
 
@@ -39,7 +39,7 @@ func GutsMethod() {
 		// 发生在编译期间的语法糖, 也是因为这个, 显式的字符串
 		// 等等都是不可以被这样自动化处理的. 事实上, 地址操作
 		// 符也无法取得字符串字面量, 数字字面量以及布尔值字面
-		// 量的地址, 诸如 &42 和 &"Nyxvectar Yan"  这样的语句
+		// 量的地址, 诸如 &42 和 &"Raye Lattice "  这样的语句
 		// 将导致 Go 报 invalid indirect 错误, 无法通过编译.
 	}
 	// 由于前文我们提到过 Go 语言的方法实质上就是函数一种变体
